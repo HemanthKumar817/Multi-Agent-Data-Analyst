@@ -60,7 +60,7 @@ eval-type-backport==0.2.2
 exceptiongroup==1.2.2
 executing==2.2.0
 fastapi==0.115.9
-fastapi-cli==0.0.7
+fastapi-cli==0.0.12
 fastavro==1.10.0
 fastjsonschema==2.21.1
 filelock==3.18.0
