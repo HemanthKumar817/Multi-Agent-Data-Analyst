@@ -65,7 +65,7 @@ fastavro==1.10.0
 fastjsonschema==2.21.1
 filelock==3.18.0
 fireducks==1.2.5
-firefw==1.2.5
+firefw==1.4.2
 flatbuffers==25.2.10
 fonttools==4.57.0
 fqdn==1.5.1
